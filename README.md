@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ⚡ <b>Self Studying</b><br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
-Digital Forensic
 
 📝 <b>Now Learning</b><br>Web Crawling, Programming Language
 
